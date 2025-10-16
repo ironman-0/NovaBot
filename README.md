@@ -1,1 +1,3 @@
 # NovaBot
+# Jarvis
+# tranding AI
